@@ -1,0 +1,15 @@
+.organization {
+    font-size: .95em !important;
+}
+
+@media screen and (min-width:768px) {
+    .organization {
+        font-size: .85em !important;
+    }
+}
+
+@media screen and (min-width:993px) {
+    .organization {
+        font-size: .95em !important;
+    }
+}
